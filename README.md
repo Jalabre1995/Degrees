@@ -6,6 +6,7 @@ In this problem, I am interested in finding the shortest path between any two ac
 To solve this I created an AI using Bredth First Search(BFS) to have the AI go through the stars, people, and movies cvs files to see if those two actors starred in a film together. This projects main purpose is to get a better understanding of DFS(Depth-first-search) and BFS(Bredth-first-search). 
 
 # Output
+```
 $ python degrees.py large
 Loading data...
 Data loaded.
@@ -15,3 +16,4 @@ Name: Jennifer Lawrence
 1: Emma Watson and Brendan Gleeson starred in Harry Potter and the Order of the Phoenix
 2: Brendan Gleeson and Michael Fassbender starred in Trespass Against Us
 3: Michael Fassbender and Jennifer Lawrence starred in X-Men: First Class
+```
